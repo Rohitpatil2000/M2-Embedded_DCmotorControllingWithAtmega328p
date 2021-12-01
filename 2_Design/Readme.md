@@ -3,6 +3,8 @@
 
 ## Behavioural Diagrams
 
+![BEHAVI DIA](https://user-images.githubusercontent.com/94243541/144276733-a3207857-616c-43f1-aed9-747183801258.jpg)
+
 
 ## Block Diagrams
 
