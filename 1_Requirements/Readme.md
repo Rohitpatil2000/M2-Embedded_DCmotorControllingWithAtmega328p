@@ -3,7 +3,7 @@
 # INTRODUCTION :
 This activity is demonstration of controlling DC motor with the help of Atmega328 microcontroller.
 
-# RESEARCH
+# RESEARCH :
 In this activity, 
 I performed two operations with DC motor
 1) Controlling DC motor using in clockwise direction using switch.
