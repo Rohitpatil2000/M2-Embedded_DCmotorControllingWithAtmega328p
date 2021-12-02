@@ -11,7 +11,7 @@
 | 1 | 1 | STOP |
 
 
-## OUTPUT IMAGES
+## OUTPUT 
 
 
 # DC motor working after turn ON switch :
