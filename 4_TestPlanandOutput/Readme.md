@@ -1,8 +1,5 @@
 # Test plan
 
-
-## Test Plan
-
 | IN1 | IN2 | MOTOR DIRECTION |
 | --- | --- | --- |
 | 0 | 0 | STOP |
@@ -11,8 +8,7 @@
 | 1 | 1 | STOP |
 
 
-## OUTPUT 
-
+# OUTPUT 
 
 # DC motor working after turn ON switch :
 ![dcmotor working](https://user-images.githubusercontent.com/94243541/144359828-ce13239a-8e28-4445-b247-8a13f33c815d.png)
