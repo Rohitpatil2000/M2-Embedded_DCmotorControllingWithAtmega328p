@@ -52,3 +52,12 @@ How : Programming and simulation can be done on terminal and simulide from Perso
 | LLR_1 | List of operations displayed | Implemented |
 | LLR_2 | Input from the user | Implemented |
 | LLR_3 | Exit the program | Implemented |
+
+## Test Plan
+
+| IN1 | IN2 | MOTOR DIRECTION |
+| --- | --- | --- |
+| 0 | 0 | STOP |
+| 1 | 0 | CLOCKWISE |
+| 0 | 1 | ANTICLOCKWISE |
+| 1 | 1 | STOP |
