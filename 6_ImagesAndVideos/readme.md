@@ -1,6 +1,7 @@
 ## OUTPUT IMAGES
 
 
+# DC motor working after turn ON switch :
 ![dcmotor working](https://user-images.githubusercontent.com/94243541/144359828-ce13239a-8e28-4445-b247-8a13f33c815d.png)
 
 
