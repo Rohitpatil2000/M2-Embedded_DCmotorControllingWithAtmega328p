@@ -53,7 +53,7 @@ How : Programming and simulation can be done on terminal and simulide from Perso
 | LLR_2 | Input from the user | Implemented |
 | LLR_3 | Exit the program | Implemented |
 
-## Test Plan
+## Test Plan :
 
 | IN1 | IN2 | MOTOR DIRECTION |
 | --- | --- | --- |
