@@ -13,7 +13,7 @@
 
 ## OUTPUT VIDEOS
 
-1) DC motor rotating
+1) DC motor rotating After turning ON switch
 
 https://user-images.githubusercontent.com/94243541/144398084-58407871-a4d0-44dd-9b36-d38839a5fa7e.mp4
 
