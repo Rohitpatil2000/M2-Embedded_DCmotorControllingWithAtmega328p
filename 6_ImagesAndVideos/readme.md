@@ -17,3 +17,7 @@
 
 https://user-images.githubusercontent.com/94243541/144398084-58407871-a4d0-44dd-9b36-d38839a5fa7e.mp4
 
+
+2) DC motor rotating clockwise and anticlockwise
+https://user-images.githubusercontent.com/94243541/144471131-7b064417-3a51-4787-9bff-036b3b54631b.mp4
+
