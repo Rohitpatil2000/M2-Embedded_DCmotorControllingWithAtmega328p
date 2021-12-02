@@ -16,26 +16,34 @@ DC motors use magnetic fields that occur from the electrical currents generated,
 Atmega 328:
 The high-performance Microchip 8-bit AVR® RISC-based microcontroller combines 32 KB ISP Flash memory with read-while-write capabilities, 1 KB EEPROM, 2 KB SRAM, 23 general purpose I/O lines, 32 general purpose working registers, three flexible timer/counters with compare modes, internal and external interrupts, serial programmable USART, a byte-oriented Two-Wire serial interface, SPI serial port, 6-channel 10-bit A/D converter (8-channels in TQFP and QFN/MLF packages), programmable watchdog timer with internal oscillator, and five software selectable power saving modes. The device operates between 1.8-5.5 volts.
 
-
 ## SWOT Analysis
 
-Strength : Gives experience of working with ATmega328 microcontroller and do simulation.
+Strength : 
+Gives experience of working with ATmega328 microcontroller and do simulation.
 
-Weakness : Requires handson experience about Embedded programming and good knowlege about pin connection of Atmega 328 microcontroller.
+Weakness : 
+Requires handson experience about Embedded programming and good knowlege about pin connection of Atmega 328 microcontroller.
+
+Opportunities :
+Can upgrade this system with new and upcomming technologies.
+
+Threats :
+Some time the system firmware gets defected as its very diffcuilt to unlock the system.
 
 ## 4W's and 1'H
+
 # 4W's
 
 Who : Can be done by person having knowledge of embedded .
 
 What : Do programming of microcontroller and perform simulation.
 
-When :
+When : System can be used when we need to work on any system having DC motor. 
 
-Where : On the Laptop or PC .
+Where : Can be implemented in toys and other equipments.
 
 # 1'H
-How : Programming and simulation can be done on terminal and simulide from Personal computer or laptop.
+How : Programming and simulation can be done with the help of Atmega 328 microcontroller and simulide from Personal computer or laptop.
 
 ## Detail Requirements :
 
